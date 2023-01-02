@@ -1,0 +1,15 @@
+crear proyecto en firebase
+agregar firebase a la aplicacion de android: poner el paquete y el nombre que quieras. (icono android en firebase en el navegador)
+descargar el json y ponerlo pestaña project en android studio y carpeta app
+volver pestaña android
+en build gradle project en parte plugins: id 'com.google.gms.google-services' version '4.3.13' apply false
+en build gradle module en parte plugins: id 'com.google.gms.google-services'
+y en dependencies:
+implementation platform('com.google.firebase:firebase-bom:30.3.1')
+
+    implementation 'com.google.firebase:firebase-analytics'
+
+    implementation 'com.google.firebase:firebase-database'
+
+y ahora sync now
+en firebase: realtime database, crear, modo prueba y en cruz de +: nombre de la clase comno android studio:User

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340266521324",
+    "project_id": "luchadoreswwe-66ed6",
+    "storage_bucket": "luchadoreswwe-66ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340266521324:android:60f655d5455401615a4bc9",
+        "android_client_info": {
+          "package_name": "com.example.luchadoreswwe_definitivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340266521324-dd5b9bkq82dvgkfogjqh5ucugocefvl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcm91JCwPj5AsSmNQqRntkx4CAI-i0otA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340266521324-dd5b9bkq82dvgkfogjqh5ucugocefvl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
